@@ -1,6 +1,8 @@
-# A personal project, this is my first attempt at making a console game shortly after learning java using Eclipse IDE.
+# A personal project, this is my first attempt at making a console game shortly after first learning java using Eclipse IDE.
 
+# Unique characters draw a card each turn to advance through the game earning gold by defeating enemies in a dice roll fight sequence. 
 
+# Items and spells can be purchased to assist character development for late stage game play.
 
 ![Screenshot 2024-06-13 184920](https://github.com/Jandalslap/Heroes_Gold/assets/128538609/d832218e-5a99-4c09-9b8b-50a51b67d159)
 Title Page
